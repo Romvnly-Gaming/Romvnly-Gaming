@@ -1,4 +1,4 @@
-<a href="https://discordapp.com/users/387062216030945281/"><p align="center"><img class="rounded" align="center" src="https://discord.c99.nl/widget/theme-3/387062216030945281.png" alt="Romvnly's Profile Picture" /></p></a>
+<a href="https://discordapp.com/users/387062216030945281/"><p align="center"><img style="border-radius: 6px !important;" align="center" src="https://discord.c99.nl/widget/theme-3/387062216030945281.png" alt="Romvnly's Profile Picture" /></p></a>
 <h1 align="center">Hello there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Romvnly</h1>
 
 <h4 align="left">Languages and tools</h4>
